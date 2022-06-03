@@ -1,4 +1,4 @@
-## Olá! **Sou o Rodrigo Oliveira** <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="5px"></h2>
+## Olá! **Sou o Rodrigo Oliveira** 
 
 - 🌱 Estudante de Ciência da computação, atualmente cursando o 5° semestre.
 
