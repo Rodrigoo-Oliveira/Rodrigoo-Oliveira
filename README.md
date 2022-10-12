@@ -1,6 +1,6 @@
 ## Olá! **Sou o Rodrigo Oliveira** 
 
-- 🌱 Estudante de Ciência da computação, atualmente cursando o 5° semestre.
+- 🌱 Estudante de Ciência da computação, atualmente cursando o 6° semestre.
 
 <div>
   <a href="https://github.com/Rodrigoo-Oliveira">
