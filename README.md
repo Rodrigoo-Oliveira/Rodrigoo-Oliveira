@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigoo-Oliveira&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-<p><b>No momento estou estudando:</b><br>
+<p><b></b><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js," />
   </a>
