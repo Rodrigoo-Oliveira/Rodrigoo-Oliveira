@@ -13,14 +13,20 @@
   <img align="center" height="25" width="30"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="25" width="30"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="25" width="30"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,kubernetes,docker,c,vim" />
+  </a>
+</p>
 </div>
 
 ##
 
-  No momento estou estudando:
-<div style="display: inline_block">       
-<img align="center" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-</div>
+<p><b>No momento estou estudando:</b><br>
+ <img src="https://skillicons.dev/icons?i=php" align="center">
+<p>
+
+
 
 ##
  
