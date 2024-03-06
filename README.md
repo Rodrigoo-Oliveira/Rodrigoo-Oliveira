@@ -11,16 +11,14 @@
 <p><b></b><br>
   <a href="https://skillicons.dev"></a><br>
     <img src="https://skillicons.dev/icons?i=html,css,js,python" />
-  </a>
 </p>
 
 
 ##
 
 <p><b>No momento estou estudando:</b><br>
-  <a href="https://skillicons.dev"><br>
+  <a href="https://skillicons.dev"></a><br>
    <img src="https://skillicons.dev/icons?i=php" />
-  </a>
 <p>
 
 ##
