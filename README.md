@@ -1,6 +1,6 @@
 ## Olá! **Sou o Rodrigo Oliveira** 
 
-- 🌱 Bacharel em Ciência da Computação.
+- 🌱 <p><br>Bacharel em Ciência da Computação.</br>
 
 <div>
   <a href="https://github.com/Rodrigoo-Oliveira">
