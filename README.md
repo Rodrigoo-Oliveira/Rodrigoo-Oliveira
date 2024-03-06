@@ -18,8 +18,9 @@
 ##
 
 <p><b>No momento estou estudando:</b><br>
-  <a href="https://skillicons.dev"></a><br>
+  <a href="https://skillicons.dev"><br>
    <img src="https://skillicons.dev/icons?i=php" />
+  </a>
 <p>
 
 ##
