@@ -19,7 +19,7 @@
 
   No momento estou estudando:
 <div style="display: inline_block"><br>        
-  <img align="center" height="35" width="30"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </div>
 
 ##
