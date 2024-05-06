@@ -2,7 +2,7 @@
 
 # Olá! me chamo Rodrigo Oliveira!
 ## Bem vindo ao meu perfil GitHub 👋
-🌱 Bacharel em Ciência da Computação.
+🌱 Bacharel em Ciência da Computação <br>
 🌱 Atualmente estou aprendendo sobre PHP
 
 <div>
