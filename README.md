@@ -1,7 +1,7 @@
 
 
 # Olá! me chamo Rodrigo Oliveira!
-## Bem vindo ao meu perfil GitHub 👋
+## Bem vindo ao meu perfil GitHub :vulcan_salute:
 🌱 Bacharel em Ciência da Computação <br>
 🌱 Atualmente estou estudando sobre PHP
 
